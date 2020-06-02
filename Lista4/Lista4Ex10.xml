@@ -1,0 +1,20 @@
+<furbot>
+    <enunciado>
+
+    </enunciado>
+    <mundo>
+        <qtdadeLin>9</qtdadeLin>
+        <qtdadeCol>7</qtdadeCol>
+        <explodir>true</explodir>
+    </mundo>
+    <robo>
+        <random/>
+    </robo>
+
+    <numero qtdade="12">
+        <random/>
+        <valor randomInf="2" randomSup="100"/>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+</furbot>

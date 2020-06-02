@@ -1,0 +1,253 @@
+
+<furbot>
+	<enunciado>
+	</enunciado>
+	<mundo>
+		<qtdadeLin>11</qtdadeLin>
+		<qtdadeCol>6</qtdadeCol>
+		<tamanhoCel>M</tamanhoCel>
+		<explodir>false</explodir>
+	</mundo>
+	<robo>
+		<x>0</x>
+		<y>0</y>
+		<explodir>false</explodir>
+	</robo>
+	<objeto class="br.furb.furbot.Parede">
+		<x>2</x>
+		<y>0</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>0</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>0</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>0</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>1</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>1</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>1</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>1</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>2</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>1</x>
+		<y>2</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>2</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>2</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>3</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>1</x>
+		<y>3</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>2</x>
+		<y>3</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>3</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>4</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>1</x>
+		<y>4</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>2</x>
+		<y>4</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>4</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>5</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>1</x>
+		<y>5</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>2</x>
+		<y>5</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>5</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>5</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>2</x>
+		<y>10</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>10</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>10</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>10</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>9</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>9</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>9</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>9</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>8</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>1</x>
+		<y>8</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>4</x>
+		<y>8</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>8</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>7</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>1</x>
+		<y>7</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>2</x>
+		<y>7</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>5</x>
+		<y>7</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>0</x>
+		<y>6</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>1</x>
+		<y>6</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>2</x>
+		<y>6</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+	<objeto class="br.furb.furbot.Parede">
+		<x>3</x>
+		<y>6</y>
+		<bloqueado>false</bloqueado>
+	</objeto>
+
+
+    <numero class="br.furb.furbot.Tesouro" qtdade="5">
+		<valor randomInf="1" randomSup="20" />
+		<random/>
+		<bloqueado>false</bloqueado>
+	</numero>
+	
+	<objeto class="br.furb.furbot.Alien" qtdade="4">
+        <random/>
+        <bloqueado>false</bloqueado>
+    </objeto>
+</furbot>

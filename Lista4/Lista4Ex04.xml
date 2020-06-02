@@ -1,0 +1,21 @@
+<furbot>
+    <enunciado>
+        Faça o robô ler o número na posição 0,0. A partir desse número n, o robô deverá adicionar até o &lt;br&gt;
+        n-ésimo termo da sequência de Fibonacci.
+    </enunciado>
+    <mundo>
+        <qtdadeLin>8</qtdadeLin>
+        <qtdadeCol>8</qtdadeCol>
+        <explodir>true</explodir>
+    </mundo>
+    <robo>
+        <x>0</x>
+        <y>0</y>
+    </robo>
+
+    <numero>
+        <x>0</x>
+        <y>0</y>
+        <valor randomInf="1" randomSup="60"/>
+    </numero>
+</furbot>

@@ -1,0 +1,28 @@
+<furbot>
+	<enunciado>
+         
+	</enunciado>
+	<mundo>
+		<random limiteInfY="6" limiteSupY="6" limiteInfX="6" limiteSupX="6" />
+		<explodir>true</explodir>
+	</mundo>
+	<robo>
+		<x>0</x>
+		<y>0</y>
+	</robo>
+
+    <numero class="br.furb.furbot.Tesouro" qtdade="15">
+        <random/>
+        <valor randomInf="1" randomSup="50"/>
+        <bloqueado>false</bloqueado>
+    </numero>
+
+
+
+   <objeto class="br.furb.furbot.Alien" qtdade="5">
+        <random/>
+        <bloqueado>false</bloqueado>
+    </objeto>
+
+
+</furbot>
